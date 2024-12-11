@@ -45,7 +45,7 @@ Tous les scripts développés doivent être déposés dans ce dépôt Git. Ce d�
 
 ## Connexion entre Onyxia et Github
 
-- Une fois que vous avez lancé VSCode depuis Onyxia, ouvrez le terminal et configurez le git :
+- Une fois que vous avez lancé VSCode (https://datalab.sspcloud.fr/launcher/ide/vscode-python?name=vscode-python-projet&version=2.1.15&s3=region-ec97c721&init.personalInit=%C2%ABhttps%3A%2F%2Fframagit.org%2Fcours1%2Fsigmam2_telea%2F-%2Fraw%2Fmain%2Fint_env_telea_project.sh%3Fref_type%3Dheads%C2%BB&autoLaunch=true) depuis Onyxia, ouvrez le terminal et configurez le git :
   - git config --global user.name "VotreNom"
   - git config --global user.email "VotreEmail@example.com"
 - Dès lors, clonez le dépot github :
