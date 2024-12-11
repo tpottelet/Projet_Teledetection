@@ -51,6 +51,11 @@ Tous les scripts développés doivent être déposés dans ce dépôt Git. Ce d�
 - Dès lors, clonez le dépot github :
   - git clone https://github.com/tpottelet/Projet_Teledetection.git
 
+## Importer les images
+
+- Créer un dossier "images" dans "data"
+- Dans le terminal, écrire "mc cp -r s3/thomaspottelet/diffusion/images /home/onyxia/work/data"
+
 ## Télécharger Git LTS pour les fichiers volumineux
 
 - Github n'accepte pas les fichiers faisant plus de 100Mo. Pour palier à celà, il faut installer Git LTS sur le lien suivant : https://git-lfs.com/
