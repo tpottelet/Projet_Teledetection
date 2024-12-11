@@ -49,7 +49,7 @@ Tous les scripts développés doivent être déposés dans ce dépôt Git. Ce d�
   - git config --global user.name "VotreNom"
   - git config --global user.email "VotreEmail@example.com"
 - Dès lors, clonez le dépot github :
-  - git clone https://github.com/votre-nom-utilisateur/Projet_Teledection.git
+  - git clone https://github.com/tpottelet/Projet_Teledetection.git
 
 ## Télécharger Git LTS pour les fichiers volumineux
 
