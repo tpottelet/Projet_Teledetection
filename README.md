@@ -56,14 +56,6 @@ Tous les scripts développés doivent être déposés dans ce dépôt Git. Ce d�
 - Créer un dossier "images" dans "data"
 - Dans le terminal, écrire "mc cp -r s3/thomaspottelet/diffusion/images /home/onyxia/work/data"
 
-## Télécharger Git LTS pour les fichiers volumineux
-
-- Github n'accepte pas les fichiers faisant plus de 100Mo. Pour palier à celà, il faut installer Git LTS sur le lien suivant : https://git-lfs.com/
-- Une fois téléchargé, suivre les étapes suivantes sur le terminal vscode :
-  - git lfs install
-  - git lfs track "*.psd"
-  - git add .gitattributes
-
 ## Notes importantes
 
 - Sauvegardez vos données localement à la fin de chaque session.
